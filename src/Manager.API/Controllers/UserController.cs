@@ -1,10 +1,8 @@
-using System.Threading.Tasks;
 using AutoMapper;
 using Manager.API.ViewModes;
 using Manager.Services.interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Manager.Services.DTO;
-using Microsoft.AspNetCore.Authorization;
 using Manager.Core.Exceptions;
 using Manager.API.Utilities;
 
